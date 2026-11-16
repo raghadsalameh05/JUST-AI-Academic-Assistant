@@ -1,0 +1,7 @@
+{
+  "model": "gpt2-base",
+  "validation_page": 5,
+  "tokens": 252,
+  "loss": 3.3097171783447266,
+  "perplexity": 27.37738146052606
+}
