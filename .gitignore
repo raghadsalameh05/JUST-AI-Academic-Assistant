@@ -1,0 +1,20 @@
+# Secrets
+.env
+.env.*
+!.env.example
+token.txt
+
+# Model checkpoints
+cpt_best/
+sft_best/
+cpt_epoch_*/
+sft_epoch_*/
+*.safetensors
+*.bin
+*.pt
+*.pth
+
+# Temporary files
+__pycache__/
+.ipynb_checkpoints/
+.virtual_documents/
