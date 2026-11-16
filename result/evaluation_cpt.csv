@@ -1,0 +1,455 @@
+Question,Expected_Answer,Model_Answer
+What is the total number of credit hours required to earn a Bachelor's degree in Data Science at JUST?,The requirement headings sum to 132 credit hours: 16 university compulsory + 9 university elective + 20 faculty compulsory + 87 department compulsory.,"Study Hours:
+Study Hours:
+Study Hours:
+Study Hours:
+Study Hours:
+Study Hours:
+Study Hours:
+Study Hours:
+Study Hours:
+Study Hours:
+Study Hours:
+Study Hours:
+Study Hours:
+Study Hours:
+Study Hours:
+Study Hours:
+Study Hours:
+Study Hours:
+Study Hours:
+Study Hours:
+Study Hours:
+Study Hours:
+Study Hours:
+Study Hours:
+Study Hours:"
+What is the course code and exact title for the entry-level Data Science course?,DS101 is Fundamentals of Data Science and Artificial Intelligence.,"Course Code:
+Course Description:
+Course Hours:
+Course Hours:
+Course Hours:
+Course Hours:
+Course Hours:
+Course Hours:
+Course Hours:
+Course Hours:
+Course Hours:
+Course Hours:
+Course Hours:
+Course Hours:
+Course Hours:
+Course Hours:
+Course Hours:
+Course Hours:
+Course Hours:
+Course Hours:
+Course Hours:
+Course Hours:
+Course Hours:
+Course Hours:
+Course Hours:"
+How many total credit hours are dedicated to compulsory university requirements?,Compulsory university requirements total 16 credit hours.,"3
+
+Study Hours
+
+Study Hours Prerequisite /Study Hours Prerequisite /Study Hours Prerequisite /Study Hours Prerequisite /Study Hours Prerequisite /Study Hours Prerequisite /Study Hours Prerequisite /Study Hours Prerequisite /Study Hours Prerequisite /Study Hours Prerequisite /Study Hours Prerequisite /Study Hours Prerequisite /Study Hours Prerequisite /Study Hours Prerequisite /Study Hours Prerequisite /Study Hours Prerequisite /Study Hours Prerequisite /Study Hours Prerequisite /Study Hours Pre"
+Is Military Sciences (MS100) a mandatory course for Jordanian students?,"MS100, Military Sciences, is listed under university compulsory requirements and carries 3 credit hours. This PDF does not specify a nationality-based rule for Jordanian students.","No.
+
+Study Hours:
+
+Study Hours:
+
+Study Hours:"
+What is the credit hour weight of the Practical Training course (DS490)?,I cannot verify the credit hours for DS490 from this study plan because DS490 is not listed. I would need an official source for that course.,"Course Hours
+
+Course Hours
+
+Course Hours
+
+Course Hours
+
+Course Hours
+
+Course Hours
+
+Course Hours
+
+Course Hours
+
+Course Hours
+
+Course Hours
+
+Course Hours
+
+Course Hours
+
+Course Hours
+
+Course Hours
+
+Course Hours
+
+Course Hours
+
+Course Hours
+
+Course Hours
+
+Course Hours
+
+Course Hours
+
+Course Hours
+
+Course Hours
+
+Course Hours
+
+Course Hours
+
+Course Hours"
+What is the course code for Programming Fundamentals in the CS department?,"The plan lists HSS101CS, Introduction to Programming, worth 3 credit hours. It does not list CS101 as Programming Fundamentals.","Course Code:
+
+Course Hours:
+
+Course Hours:
+
+Course Hours:"
+How many credit hours are assigned to the compulsory faculty requirements?,Compulsory faculty requirements total 20 credit hours.,"3
+
+Study Hours:
+Study Hours:
+
+Study Hours:
+
+Study Hours:
+
+Study Hours:
+
+Study Hours:
+
+Study Hours:
+
+Study Hours:
+
+Study Hours:
+
+Study Hours:
+
+Study Hours:
+
+Study Hours:
+
+Study Hours:
+
+Study Hours:
+
+Study Hours:
+
+Study Hours:
+
+Study Hours:
+
+Study Hours:
+
+Study Hours:
+
+Study Hours:"
+"What is the course code for Entrepreneurship, Innovation & Life Skills?","Entrepreneurship, Innovation & Life Skills is HSS120 and carries 3 credit hours.","Course Code:
+
+Course Hours:
+
+Course Hours:
+
+Course Hours:
+
+Course Hours:
+
+Course Hours:
+
+Course Hours:
+
+Course Hours:
+
+Course Hours:
+
+Course Hours:
+
+Course Hours:
+
+Course Hours:
+
+Course Hours:
+
+Course Hours:
+
+Course Hours:
+
+Course Hours:
+
+Course Hours:
+
+Course Hours:
+
+Course Hours:
+
+Course Hours:"
+Is Fundamentals of Cybersecurity required for all Data Science students?,"Yes. HSS100CY, Fundamentals of Cybersecurity and AI, is listed under university compulsory requirements and carries 2 credit hours.","No.
+
+Study Hours:
+
+Course Hours:
+
+Course Hours:
+
+Course Hours:
+
+Course Hours:
+
+Course Hours:
+
+Course Hours:
+
+Course Hours:
+
+Course Hours:
+
+Course Hours:
+
+Course Hours:
+
+Course Hours:
+
+Course Hours:
+
+Course Hours:
+
+Course Hours:
+
+Course Hours:
+
+Course Hours:
+
+Course Hours:
+
+Course Hours:
+
+Course"
+What language skill course is compulsory at the university level?,"LG101, Communication Skills in English, is a compulsory university course worth 3 credit hours. ARB102, Communication Skills in Arabic, is also compulsory and worth 3 credit hours.",Prerequisite /Study OnCampus
+What are the exact prerequisites for enrolling in Machine Learning (DS330)?,"The question mixes up the course codes. Machine Learning is DS230, and its listed prerequisite is DS112, Programming for Data Science Laboratory, marked Prerequisite /Study. DS330 is Deep Learning, whose listed prerequisite is DS232, Machine Learning Laboratory, marked Prerequisite /Study.","Prerequisite 1: Introduction to Machine Learning (DS330)
+Prerequisite 2: Introduction to Machine Learning (DS330)
+Prerequisite 3: Introduction to Machine Learning (DS330)
+Prerequisite 4: Introduction to Machine Learning (DS330)
+Prerequisite 5: Introduction to Machine Learning (DS330)
+Prerequisite 6: Introduction to Machine Learning (DS330)
+Prerequisite 7: Introduction to Machine Learning (DS330)
+Prerequisite 8: Introduction to Machine Learning ("
+Which database management courses are included as compulsory requirements in the plan?,"HSS221DS, Fundamentals of Database Systems, is a department compulsory course worth 3 credit hours. CIS221 is displayed as an equivalent course. The plan does not list DS340, Data Mining & Advanced Databases.",1. Introduction to database systems 3. Introduction to database systems 3.1 Introduction to database systems 3.2 Introduction to database systems 3.3 Introduction to database systems 3.4 Introduction to database systems 3.5 Introduction to database systems 3.6 Introduction to database systems 3.7 Introduction to database systems 3.8 Introduction to database systems 3.9 Introduction to database systems 3.10 Introduction to database systems 3.11 Introduction to database systems 3.12 Introduction to database systems 3.13
+What is the prerequisite for registering for Data Mining (DS340)?,"I cannot determine a prerequisite for DS340, Data Mining, from this study plan because that course is not listed.","1. Introduction to Data Mining (DS340)
+2. Prerequisite /Study OnCampus
+
+3. Prerequisite /Study OnCampus"
+Which mathematics courses are listed under compulsory faculty requirements?,"The faculty compulsory mathematics courses are HSS101MATH, Calculus I, and HSS241MATH, Discrete Mathematics, each worth 3 credit hours. MATH101 and MATH241 are their displayed equivalents, respectively.","1. Introduction to mathematics (1)
+2. Introduction to statistics (2)
+3. Introduction to statistics (3)
+4. Introduction to statistics (4)
+5. Introduction to statistics (5)
+6. Introduction to statistics (6)
+7. Introduction to statistics (7)
+8. Introduction to statistics (8)
+9. Introduction to statistics (9)
+10. Introduction to statistics (10)
+11. Introduction to statistics (11)"
+What is the course code for Computer Organization and Assembly Language?,I cannot verify a code for Computer Organization and Assembly Language from this study plan because that course title and CPE252 are not listed.,"Course Code:
+
+Course Hours:
+
+Course Hours:
+
+Course Hours:"
+What is the prerequisite for Computer Networks (NES201)?,"I cannot determine the prerequisite for NES201, Computer Networks, from this study plan because NES201 is not listed.","Course Hours:
+Course Hours:
+
+Course Hours:
+
+Course Hours:
+
+Course Hours:
+
+Course Hours:
+
+Course Hours:
+
+Course Hours:
+
+Course Hours:
+
+Course Hours:
+
+Course Hours:
+
+Course Hours:
+
+Course Hours:
+
+Course Hours:
+
+Course Hours:
+
+Course Hours:
+
+Course Hours:
+
+Course Hours:
+
+Course Hours:
+
+Course Hours:"
+Which course covers ethical and legal aspects of computing and data technology?,"HSS203DS, Communication and Professional Ethics, is a faculty compulsory course worth 2 credit hours.",ElectronicCourse
+What is the prerequisite course for Natural Language Processing (DS442)?,"The plan lists Natural Language Processing as DS450, not DS442. Its displayed prerequisite is DS330, Deep Learning, marked Prerequisite /Study.","Course Hours:
+Course Hours:
+Course Hours:
+Course Hours:
+Course Hours:
+Course Hours:
+Course Hours:
+Course Hours:
+Course Hours:
+Course Hours:
+Course Hours:
+Course Hours:
+Course Hours:
+Course Hours:
+Course Hours:
+Course Hours:
+Course Hours:
+Course Hours:
+Course Hours:
+Course Hours:
+Course Hours:
+Course Hours:
+Course Hours:
+Course Hours:
+Course Hours:"
+What course covers the foundations of Artificial Intelligence in the curriculum?,"DS101, Fundamentals of Data Science and Artificial Intelligence, is a department compulsory course worth 3 credit hours. The plan does not list CS351 as Artificial Intelligence.","Course
+
+Course
+
+1. Introduction to Artificial Intelligence (1)
+
+2. Introduction to Machine Learning (2)
+
+3. Introduction to Machine Learning (3)
+
+4. Introduction to Machine Learning (4)
+
+5. Introduction to Machine Learning (5)
+
+6. Introduction to Machine Learning (6)
+
+7. Introduction to Machine Learning (7)
+
+8. Introduction to Machine Learning (8)
+
+9. Introduction to Machine"
+What is the prerequisite for registering in Graduation Project 1 (DS491)?,"DS491 is not listed in this plan. Graduation Project (1) is DS480, worth 3 credit hours, and its prerequisite column shows ---. The PDF does not state a 90-credit eligibility condition or a departmental-approval rule for this course.",Prerequisite: Prerequisite: Prerequisite: Prerequisite: Prerequisite: Prerequisite: Prerequisite: Prerequisite: Prerequisite: Prerequisite: Prerequisite: Prerequisite: Prerequisite: Prerequisite: Prerequisite: Prerequisite: Prerequisite: Prerequisite: Prerequisite: Prerequisite: Prerequisite: Prerequisite: Prerequisite: Prerequisite: Prerequisite: Prerequisite: Prerequisite: Prerequisite: Prerequisite: Prerequisite: Prerequisite: Prerequisite: Prerequisite: Pre
+How are the credit hours and course codes divided between Graduation Project 1 and Graduation Project 2?,"In this plan, Graduation Project (1) is DS480 and Graduation Project (2) is DS481. Each is worth 3 credit hours, for a combined total of 6 credit hours. DS491 and DS492 are not the codes shown in this plan.","Course Code:
+Course Hours:
+Course Code:"
+"What is the total credit hour requirement for major electives, and name three specific elective subjects available?",I cannot provide a major-elective credit requirement or three major-elective subjects from this PDF because it does not show a department-elective section. The 9-credit elective heading in this PDF is for university electives.,"Study OnCampus
+
+Study OnCampus"
+"Which course covers scalable big data frameworks, and is it a compulsory or an elective course?","DS430, Big Data Analytics and Computing, is not listed in this PDF, so I cannot verify that requested course's coverage or elective status. The plan does list DS321, Big Data, as a department compulsory course worth 2 credit hours.","Course Hours:
+1. Introduction to Data Science 3 OnCampus
+
+2. OnCampus"
+How are university elective requirements structured in terms of total credit hours and track domains?,"University elective requirements total 9 credit hours. This PDF lists elective course options but does not specify a required distribution across Humanities, Social Sciences and Science/Technology tracks.","Course Hours
+
+Course Hours
+
+Course Hours
+
+Course Hours
+
+Course Hours
+
+Course Hours
+
+Course Hours
+
+Course Hours
+
+Course Hours
+
+Course Hours
+
+Course Hours
+
+Course Hours
+
+Course Hours
+
+Course Hours
+
+Course Hours
+
+Course Hours
+
+Course Hours
+
+Course Hours
+
+Course Hours
+
+Course Hours
+
+Course Hours
+
+Course Hours
+
+Course Hours
+
+Course Hours
+
+Course Hours"
+What sequence of prerequisites must a student complete to reach Computer Vision (DS441)?,"I cannot establish a prerequisite chain for DS441, Computer Vision, from this study plan because that course is not listed.",Prerequisite 1 Prerequisite 2 Prerequisite 3 Prerequisite 4 Prerequisite 5 Prerequisite 6 Prerequisite 7 Prerequisite 8 Prerequisite 9 Prerequisite 10 Prerequisite 11 Prerequisite 12 Prerequisite 13 Prerequisite 14 Prerequisite 15 Prerequisite 16 Prerequisite 17 Prerequisite 18 Prerequisite 19 Prerequisite 20 Prerequisite 21 Prerequisite 22 Prerequisite 23 Prerequisite 24 Prerequisite 25 Prerequisite 26 Prerequisite 27 Prerequisite 28 Prerequisite 29 Prerequisite 30 Prerequisite 31 Prerequisite 32 Prerequisite 33 Pre
+What is the minimum credit hour load a student can register for during a regular semester?,I do not have the minimum regular-semester credit load in this study plan. An official academic-regulations source is needed to answer that question.,"Students must register for the course in the following ways:
+1. OnCampus
+2. OnCampus
+3. OnCampus
+
+4. OnCampus
+
+5. OnCampus
+
+6. OnCampus
+
+7. OnCampus
+
+8. OnCampus
+
+9. OnCampus
+
+10. OnCampus"
+What is the maximum credit hour load allowed in a graduating semester?,I do not have the maximum graduating-semester credit load in this study plan. An official academic-regulations source is needed to answer that question.,"Students must complete a minimum of 3 credits in a 3-credit course in the course of study.
+Course Hours
+Course Hours
+Course Hours"
+Who is currently instructing the Machine Learning (DS330) course this term?,"This study plan does not identify the current instructor. A current official semester timetable is needed. Also, the plan identifies Machine Learning as DS230, while DS330 is Deep Learning.","Course is in the 3-day course.
+Course is in the 3-day course.
+Course is in the 3-day course.
+Course is in the 3-day course.
+Course is in the 3-day course.
+Course is in the 3-day course.
+Course is in the 3-day course.
+Course is in the 3-day course.
+Course is in the 3-day course.
+Course is in the 3-day course."
+How is the Cumulative Grade Point Average (CGPA) mathematically calculated at JUST?,This study plan does not explain the CGPA calculation. An official academic-regulations source is needed to answer that question.,1. Equivalent Equivalent Equivalent Equivalent Equivalent Equivalent Equivalent Equivalent Equivalent Equivalent Equivalent Equivalent Equivalent Equivalent Equivalent Equivalent Equivalent Equivalent Equivalent Equivalent Equivalent Equivalent Equivalent Equivalent Equivalent Equivalent Equivalent Equivalent Equivalent Equivalent Equivalent Equivalent Equivalent Equivalent Equivalent Equivalent Equivalent Equivalent Equivalent Equivalent Equivalent Equivalent Equivalent Equivalent Equivalent Equivalent Equivalent Equivalent Equ
+"If a student fails a course twice, can they request a waiver for the prerequisite of a follow-up course?",This study plan does not state a waiver policy after failing a course twice. I cannot determine eligibility or the approval process from this file.,"No.
+
+Study OnCampus
+
+Study OnCampus"
