@@ -1,0 +1,14 @@
+[
+  {
+    "model": "Base GPT-2",
+    "tokens_evaluated": 251,
+    "top1_accuracy_%": 47.01,
+    "top5_accuracy_%": 64.94
+  },
+  {
+    "model": "CPT Model",
+    "tokens_evaluated": 251,
+    "top1_accuracy_%": 55.78,
+    "top5_accuracy_%": 75.3
+  }
+]
